@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="btg_report_tag_priority_name">
+        <item>Trivial</item>
+        <item>Minor</item>
+        <item>Major</item>
+        <item>Blocker</item>
+    </string-array>
+    <array name="btg_tag_priority_res">
+        <item>@drawable/btg_icon_priority_0_full</item>
+        <item>@drawable/btg_icon_priority_1_full</item>
+        <item>@drawable/btg_icon_priority_2_full</item>
+        <item>@drawable/btg_icon_priority_3_full</item>
+    </array>
+    <array name="circular_default_color_sequence">
+        <item>@color/white</item>
+        <item>@color/white</item>
+    </array>
+    <string-array name="debug">
+        <item>://qa.knowbox.cn:8006</item>
+        <item>://betassapinew.knowbox.cn:9020/</item>
+        <item>://betasecurity.knowbox.cn/</item>
+        <item>://betassweb.knowbox.cn:7002</item>
+    </string-array>
+    <string-array name="develop">
+        <item>://106.75.84.4:8061/</item>
+        <item>://betassapinew.knowbox.cn:9020/</item>
+        <item>://betasecurity.knowbox.cn/</item>
+        <item>://betassweb.knowbox.cn:7008/</item>
+    </string-array>
+    <string-array name="grade_name">
+        <item>一年级 上</item>
+        <item>一年级 下</item>
+        <item>二年级 上</item>
+        <item>二年级 下</item>
+        <item>三年级 上</item>
+        <item>三年级 下</item>
+        <item>四年级 上</item>
+        <item>四年级 下</item>
+        <item>五年级 上</item>
+        <item>五年级 下</item>
+        <item>六年级 上</item>
+        <item>六年级 下</item>
+    </string-array>
+    <string-array name="lunar_first_of_month">
+        <item>春节</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>冬月</item>
+        <item>腊月</item>
+    </string-array>
+    <string-array name="lunar_str">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>二十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </string-array>
+    <string-array name="online">
+        <item>://stuapi.knowbox.cn/</item>
+        <item>://ssapinew.knowbox.cn/</item>
+        <item>://secureapi.knowbox.cn/</item>
+        <item>://ssweb.knowbox.cn/</item>
+    </string-array>
+    <string-array name="preview">
+        <item>://preshark.knowbox.cn:8045/</item>
+        <item>://preshark.knowbox.cn:8042/</item>
+        <item>://secureapi.knowbox.cn/</item>
+        <item>://prefe.knowbox.cn:7002/</item>
+    </string-array>
+    <string-array name="solar_festival">
+        <item>0101元旦</item>
+        <item>0214情人节</item>
+        <item>0308妇女节</item>
+        <item>0312植树节</item>
+        <item>0315消权日</item>
+        <item>0401愚人节</item>
+        <item>0501劳动节</item>
+        <item>0504青年节</item>
+        <item>0601儿童节</item>
+        <item>0701建党节</item>
+        <item>0801建军节</item>
+        <item>0910教师节</item>
+        <item>1001国庆节</item>
+        <item>1224平安夜</item>
+        <item>1225圣诞节</item>
+    </string-array>
+    <string-array name="solar_term">
+        <item>春分</item>
+        <item>清明</item>
+        <item>谷雨</item>
+        <item>立夏</item>
+        <item>小满</item>
+        <item>芒种</item>
+        <item>夏至</item>
+        <item>小暑</item>
+        <item>大暑</item>
+        <item>立秋</item>
+        <item>处暑</item>
+        <item>白露</item>
+        <item>秋分</item>
+        <item>寒露</item>
+        <item>霜降</item>
+        <item>立冬</item>
+        <item>小雪</item>
+        <item>大雪</item>
+        <item>冬至</item>
+        <item>小寒</item>
+        <item>大寒</item>
+        <item>立春</item>
+        <item>雨水</item>
+        <item>惊蛰</item>
+    </string-array>
+    <string-array name="tk_debug">
+        <item>://qa.knowbox.cn:8008/</item>
+        <item>://betassapinew.knowbox.cn:9008/</item>
+        <item>://betasecurity.knowbox.cn/</item>
+        <item>://betassweb.knowbox.cn:7008</item>
+    </string-array>
+    <string-array name="tk_preview">
+        <item>://qa.knowbox.cn:8003/</item>
+        <item>://betassapinew.knowbox.cn:9007/</item>
+        <item>://betasecurity.knowbox.cn/</item>
+        <item>://betassweb.knowbox.cn:7007</item>
+    </string-array>
+    <string-array name="tradition_festival">
+        <item>除夕</item>
+        <item>0101春节</item>
+        <item>0115元宵</item>
+        <item>0505端午</item>
+        <item>0707七夕</item>
+        <item>0815中秋</item>
+        <item>0909重阳</item>
+    </string-array>
+    <array name="western_festival" />
+</resources>

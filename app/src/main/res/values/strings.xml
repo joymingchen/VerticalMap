@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="Did_not_download">Not yet downloaded</string>
+    <string name="Download_the_pictures">Download the pictures: 0%</string>
+    <string name="Download_the_pictures_new">Download the pictures:</string>
+    <string name="Failed_to_download_file">Failed to download file:</string>
+    <string name="File_does_not_exist">File does not exist</string>
+    <string name="Have_downloaded">Already downloaded</string>
+    <string name="Is_download_voice_click_later">Downloading the voice message, click later</string>
+    <string name="Open_the_equipment_failure">Open the equipment failure!</string>
+    <string name="Recording_without_permission">Recording without permission</string>
+    <string name="Send_voice_need_sdcard_support">Send voice need sdcard support</string>
+    <string name="The_file_is_not_greater_than_10_m">The file is not greater than 10 m</string>
+    <string name="The_recording_time_is_too_short">The recording time is too short</string>
+    <string name="The_video_to_start">The video to start</string>
+    <string name="Whether_to_empty_all_chats">Clear all messages?</string>
+    <string name="Whether_to_send">Are you sure to send?</string>
+    <string name="attach_file">File</string>
+    <string name="attach_location">Location</string>
+    <string name="attach_picture">Image</string>
+    <string name="attach_take_pic">Capture</string>
+    <string name="attach_video">Video</string>
+    <string name="btg_global_cancel">Cancel</string>
+    <string name="btg_global_confirm">OK</string>
+    <string name="btg_global_error">Error! Try Again!</string>
+    <string name="btg_global_got_it">Got it!</string>
+    <string name="btg_guide_sub_0">Report Bug via tag</string>
+    <string name="btg_guide_sub_1">Tap screen to add a tag</string>
+    <string name="btg_guide_sub_2">Tap tag to flip</string>
+    <string name="btg_guide_sub_3">Long press tag to edit or delete</string>
+    <string name="btg_login_captcha">Captcha</string>
+    <string name="btg_login_captcha_needed">Captcha needed!</string>
+    <string name="btg_login_do">Sign in</string>
+    <string name="btg_login_failed">Sign in failed!</string>
+    <string name="btg_login_password">Password</string>
+    <string name="btg_login_password_empty">Password should not be empty!</string>
+    <string name="btg_login_progress">Sign in​</string>
+    <string name="btg_login_succeed">Sign in succeed!</string>
+    <string name="btg_login_username">Account</string>
+    <string name="btg_login_username_empty">Account should not be empty!</string>
+    <string name="btg_logout_confirm">Sure to sign out?</string>
+    <string name="btg_logout_do">Sign out</string>
+    <string name="btg_logout_my_issue">My issues</string>
+    <string name="btg_logout_title">Options</string>
+    <string name="btg_quick_signin_del">Sure to delete?</string>
+    <string name="btg_quick_signin_desc">Click account below to sign in directly</string>
+    <string name="btg_quick_signin_title">Quick Sign In</string>
+    <string name="btg_report_discard_alert">Sure to discard?</string>
+    <string name="btg_report_start">Start Describe</string>
+    <string name="btg_report_tag_bug">Bug</string>
+    <string name="btg_report_tag_hint">issue description</string>
+    <string name="btg_report_tag_improve">Feature</string>
+    <string name="btg_restart_log_title">Sure to restart trace?</string>
+    <string name="btg_tag_menu_delete">Delete</string>
+    <string name="btg_tag_menu_edit">Edit</string>
+    <string name="btg_tag_menu_info">Tag info</string>
+    <string name="btg_tag_num_max">Add three tags at most</string>
+    <string name="btg_tag_num_min">Add one tag at least</string>
+    <string name="button_pushtotalk">Hold to talk</string>
+    <string name="button_send">Send</string>
+    <string name="cancel">取消</string>
+    <string name="cant_find_pictures">"Can't find pictures"</string>
+    <string name="chat_primary_text_hint">Please input message.</string>
+    <string name="chat_row_article_view_all">CLick to view full article</string>
+    <string name="chat_row_new_picture_title">I am focus at it.</string>
+    <string name="confirm_resend">Confirm to resend？</string>
+    <string name="connect_failuer_toast">Please check the network or try again later</string>
+    <string name="current_wait_count">current wait count is %d</string>
+    <string name="date_day">day</string>
+    <string name="date_month">month</string>
+    <string name="downwaiting">Downloading the file, please try again later</string>
+    <string name="dynamic_expression">[Dynamic expression]</string>
+    <string name="ease_record_menu_too_short">Record time is too short.</string>
+    <string name="easemob_cs_title">EasemobMall Customer Service</string>
+    <string name="em_chat_I_focus">I focus on</string>
+    <string name="em_chat_invite_video_call">Invite customer service making a video call</string>
+    <string name="error_send_invalid_content">The message content is not allowed to be sent!</string>
+    <string name="file">[file]</string>
+    <string name="is_down_please_wait">Downloading video, please try again later</string>
+    <string name="loading_more">Loading more……</string>
+    <string name="location_prefix">[my location]</string>
+    <string name="location_recv">[%1$s location]</string>
+    <string name="message_content_beyond_limit">The message content beyond the limit</string>
+    <string name="move_up_to_cancel">Finger up to cancel sending</string>
+    <string name="new_leave_item_empty_value_toast">Please input required item!</string>
+    <string name="new_leave_item_hint_text">Required</string>
+    <string name="new_leave_msg_alert_ok">OK</string>
+    <string name="new_leave_msg_sub_fail">Submit fail!</string>
+    <string name="new_leave_msg_sub_fail_alert_content">Please recheck your network and submit it again!</string>
+    <string name="new_leave_send_description">"Thank you for your leave message.
+We will give you a response at the first time."</string>
+    <string name="new_leave_send_success">Submit successful</string>
+    <string name="no_more">No more.</string>
+    <string name="no_more_messages">no more messages</string>
+    <string name="not_download">Did not download:</string>
+    <string name="ok">OK</string>
+    <string name="picture">[Picture]</string>
+    <string name="prompt">Prompt</string>
+    <string name="recoding_fail">The recording failure, please try again！</string>
+    <string name="recorder_video_processing">processing…</string>
+    <string name="recording_description">Release to end, finger up to cancel sending.</string>
+    <string name="recording_video">Record video</string>
+    <string name="release_to_cancel">Finger release to cancel sending</string>
+    <string name="resend">Resend</string>
+    <string name="robot_menu">[Menu Message]</string>
+    <string name="sd_card_does_not_exist">"SD card does not exist, can't take pictures"</string>
+    <string name="send_fail">Send failed</string>
+    <string name="send_failure_please">Send failure, please test whether the server connection</string>
+    <string name="shop_detail_kefu_service">Connect to Customer Service</string>
+    <string name="shop_detail_title">Detail</string>
+    <string name="str_recorder_recording">release to end</string>
+    <string name="temporary_does_not">Not support larger than 10M video</string>
+    <string name="text_ack_msg">Read</string>
+    <string name="text_delivered_msg">Delivered</string>
+    <string name="ticket_detail">Detail</string>
+    <string name="ticket_email">Email</string>
+    <string name="ticket_name">Name</string>
+    <string name="ticket_phone">Phone</string>
+    <string name="ticket_theme">Theme</string>
+    <string name="ticket_time">Date</string>
+    <string name="transfertocs">Transfer Kefu</string>
+    <string name="video">[Video]</string>
+    <string name="video_call_accept">Accept</string>
+    <string name="video_call_hang_up">Hang Up</string>
+    <string name="video_call_reject">Reject</string>
+    <string name="video_footage">Video record</string>
+    <string name="video_record_error">Recording error has occurred. Stopping the recording</string>
+    <string name="voice_prefix">[Voice]</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="ability_buy_super_vip_str">"开通超级会员后可免费
+升级高级魔法学院"</string>
+    <string name="ability_gain_new_card">恭喜解锁新卡片</string>
+    <string name="ability_get_course_step_1">在电脑浏览器里输入以下链接，前往下&lt;br>载页 &lt;font color=\"#fb7d28\">http://www.eeo.cn/download.html&lt;/font></string>
+    <string name="ability_get_course_step_2">根据电脑系统，下载对应版本直播软件</string>
+    <string name="ability_get_course_step_3">下载完成后，打开“classin”账号处填写你的手机号:%1$s，初始密码：%2$s（之前已有或修改过密码的请用原密码），在开课前5分钟进入教室，耐心等一会，魔法老师就来了~</string>
+    <string name="ability_guide_card">"这是你拥有的魔法能力，
+需要使用水晶来强化魔法
+等级。"</string>
+    <string name="ability_guide_crystal">"水晶会在每天夜晚0点消失
+升级魔法学院，可以每日获
+得更多水晶哦！"</string>
+    <string name="ability_guide_end">"快去强化魔法，成为一名
+大魔法师吧！"</string>
+    <string name="ability_guide_start">"Hey！欢迎来到魔法学院！
+布克可以帮你在这里强化
+数学魔法哦，快来和我一
+起变强吧！"</string>
+    <string name="ability_guide_value">"能力值代表你的实力，
+在学院榜中看看你第几名。"</string>
+    <string name="ability_i_know">我知道啦</string>
+    <string name="ability_live_guide_txt_bottom">如果过期未解锁，它将会消失哦！</string>
+    <string name="ability_live_guide_txt_center">结课后将获得丰厚的奖励喔！</string>
+    <string name="ability_live_unlock">请在%1$d天内解锁哟</string>
+    <string name="ability_live_unlock_once">请尽快解锁哟，</string>
+    <string name="ability_live_unlock_today">请在今天解锁哟，</string>
+    <string name="ability_new_player_right_overdue_tip">"高级魔法学院试用资格到期，立即开通，
+获得更多能力提升机会和金币奖励"</string>
+    <string name="ability_new_player_right_tip">"免费体验高级魔法学院%1$d天，战胜对
+手获得更多奖杯，还有金币奖励哦"</string>
+    <string name="ability_new_player_time_desc">免费体验到期后恢复普通资格</string>
+    <string name="ability_new_player_time_title">限时畅玩</string>
+    <string name="ability_parent_help_get_course">小朋友，让爸爸妈妈帮助你们上课</string>
+    <string name="ability_vip_center_desctitle1">送 4 个 紫水晶</string>
+    <string name="ability_vip_center_desctitle2">赢 150 个 金币</string>
+    <string name="ability_vip_center_desctitle3">炫酷 魔法标识</string>
+    <string name="ability_vip_center_desctxt1">"升级魔法学院，每日获得 5 个
+紫水晶，强化能力卡片！"</string>
+    <string name="ability_vip_center_desctxt2">"能力成功强化获得金币奖励，
+成为土豪不是梦想！"</string>
+    <string name="ability_vip_center_desctxt3">"获得尊贵魔法标识，
+神奇魔法帽让你与众不同！"</string>
+    <string name="about_email">ss@knowbox.cn</string>
+    <string name="about_phone">400-010-0180</string>
+    <string name="add_tag_error_black_list">该应用已经在黑名单中,请联系售后支持!</string>
+    <string name="add_tag_error_count">接口调用失败, tag数量过大, 最大不能超过200个</string>
+    <string name="add_tag_error_exceed">已存 tag 超过限制</string>
+    <string name="add_tag_error_frequency">设置标签失败，频率过快</string>
+    <string name="add_tag_error_not_online">还未登陆成功</string>
+    <string name="add_tag_error_null">接口调用失败, tag 为空</string>
+    <string name="add_tag_error_repeat">设置标签失败, 标签重复</string>
+    <string name="add_tag_error_unbind">设置标签失败, 服务未初始化成功</string>
+    <string name="add_tag_success">接口调用成功</string>
+    <string name="add_tag_unknown_exception">设置标签失败，未知异常</string>
+    <string name="app_login_name">作业盒子</string>
+    <string name="app_name">作业盒子小学</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="arena_buy_super_vip_str">"开通超级会员后可免费
+升级兵器库"</string>
+    <string name="arena_new_player_right_overdue_tip">"高级兵器库体验已到期，立即开通，
+提升竞技场杯段还可以获得金币宝箱"</string>
+    <string name="arena_new_player_right_tip">"免费体验高级兵器库%1$d天，战胜对手
+获得更多奖杯，还有金币奖励哦！"</string>
+    <string name="attendance_jump_svip_text">&lt;font color=\"#29548c\">超级会员更多&lt;/font>&lt;font color=\"#f5da47\">奖励&lt;/font></string>
+    <string name="attendance_jump_vip_text">&lt;font color=\"#136dad\">开通会员&lt;/font>&lt;font color=\"#ffdb32\">奖励翻倍&lt;/font>&lt;font color=\"#136dad\">，还有额外&lt;/font>&lt;font color=\"#ffdb32\">宝箱&lt;/font>&lt;font color=\"#136dad\">哦!&lt;/font></string>
+    <string name="attendance_svip_guide_text">开通超级会员，每天10倍奖励，是否去开通？</string>
+    <string name="attendance_svip_guide_text_last_day">签到前开通超级会员才可以领取大宝箱奖励，是否去开通？</string>
+    <string name="attendance_vip_guide_text">"开通会员，签到奖励翻倍！
+是否开通？"</string>
+    <string name="attendance_vip_guide_text_last_day">签到前开通会员才可以领取大宝箱奖励，是否去开通？</string>
+    <string name="back">返回</string>
+    <string name="be_smarter">解锁脑力达人</string>
+    <string name="book_download_tips">正在下载图书%1$s...</string>
+    <string name="book_rack_title">%1$s的书架</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="btn_txt_committing">正在提交</string>
+    <string name="btn_txt_re_exame">点击补答</string>
+    <string name="btn_txt_start">开始答题</string>
+    <string name="btn_txt_un_start">活动未开始</string>
+    <string name="btn_txt_under_going">继续完成</string>
+    <string name="buy">购买</string>
+    <string name="buy_all_pass">购买套包</string>
+    <string name="buy_and_gain_reward">开通并领取</string>
+    <string name="buy_immediate">立即开通</string>
+    <string name="buy_map">买地图包赢9级勋章</string>
+    <string name="buy_study_card">补充我的学习卡</string>
+    <string name="buy_study_card_intro">学习卡可以解锁地图包和自学功能</string>
+    <string name="buy_success_sub_title">已在您的账户中</string>
+    <string name="buy_success_title">购买成功</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_answer">查看答案</string>
+    <string name="check_network">请检查网络</string>
+    <string name="choose_grade_tip">确定&lt;font color=#5EBAFF>&lt;b>(%1$s)&lt;/b>&lt;/font>吗？</string>
+    <string name="chuangzao_thought">创造式思维</string>
+    <string name="close">关闭</string>
+    <string name="cold_time_end">[寻找布克侠]新的闯关已开启, 快来获得能量和积分奖励</string>
+    <string name="cold_time_end_title">作业盒子</string>
+    <string name="committing">"正在提交结果,
+请返回作业列表查看"</string>
+    <string name="confirm">确定</string>
+    <string name="confirm_give_up_gold_box">确认离开本页吗? 宝箱就没有了哦</string>
+    <string name="continue_read_over">可点读课本 &lt;font color=#cdcdcd>&lt;b>或&lt;/b>&lt;/font> 进入下一题</string>
+    <string name="copy">复制</string>
+    <string name="correct_notebook_detail_title">已改正题目%1$d/%2$d题</string>
+    <string name="correct_notebook_play_exit_tip">退出后下次可以继续订正错题哦</string>
+    <string name="correct_notebook_result_fail_tip">"本次未能改正错题哦，
+不要灰心，再试一次吧！"</string>
+    <string name="correct_notebook_result_good_tip">"%1$d/%2$d道错题已订正，
+继续订正就能更好的掌握知识哦！"</string>
+    <string name="correct_notebook_result_perfect_tip">"%1$d道错题已经全部改正啦，
+小小的努力会累积成大大的进步哦！"</string>
+    <string name="coupon_buy">折扣购买</string>
+    <string name="coupon_price">折扣价: ¥%1$s</string>
+    <string name="cross_dialog_grade_count">%1$s %2$d次阅读</string>
+    <string name="crystal_tip">紫水晶每天刷新哦！</string>
+    <string name="cs_center_contact_assistant">联系小象助手</string>
+    <string name="cs_center_hot_question">常见问题</string>
+    <string name="cs_center_prompt_below">为您解决疑问</string>
+    <string name="cs_center_prompt_up">小象助手随时</string>
+    <string name="cs_center_question_category">问题分类</string>
+    <string name="cs_center_title">客服中心</string>
+    <string name="cup_count">杯数:%1$d</string>
+    <string name="cv_app_name">CalendarView</string>
+    <string name="deadline_time">距离本月排行结束还有%1$d天%2$d小时</string>
+    <string name="deadline_time_end">本月排行已结束,榜单6点更新</string>
+    <string name="demo_choice">\#{ \"type\" : \"answer\", \"blank_id\" : 1 , \"choice\" : \"A\"}#</string>
+    <string name="demo_question">"\#{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"left\",\"color\":\"#333333\",\"margin\":8}#
+选择你所听到的内容
+#{\"type\":\"para_end\"}#
+#{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"mid\",\"color\":\"#000000\",\"margin\":8}#
+#{\"type\":\"audio\",\"src\":\"http:7xohdn.com2.z0.glb.qiniucdn.comtingli15590285.mp3\"}#
+#{\"type\":\"para_end\"}#"</string>
+    <string name="demo_question_blank">\#{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"left\",\"color\":\"#333333\",\"margin\":8}#填空：苹果怎么写#{\"type\":\"para_end\"}##{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"mid\",\"color\":\"#000000\",\"margin\":8}#这里有个空#{\"type\":\"P\" }##{\"type\":\"blank\",\"id\": 1,\"class\":\"fillin\",\"size\":\"line\"} #{\"type\":\"para_end\"}#</string>
+    <string name="demo_question_choice">"\#{\"type\":\"para_begin\",\"size\":30,\"align\": \"left\",\"color\":\"#333333\",\"margin\":8}#
+根据录音组成正确的句子
+#{\"type\":\"para_end\"}#
+#{\"type\":\"para_begin\",\"size\":30,\"align\":\"mid\",\"color\":\"#000000\",\"margin\":8}#
+#{\"type\":\"audio\",\"src\":\"http:7xohdn.com2.z0.glb.qiniucdn.comtingli15590285.mp3\"}#
+#{\"type\":\"para_end\"}#
+#{\"type\":\"para_begin\",\"size\" : 30,\"align\":\"left\",\"color\":\"#000000\",\"margin\":8}#
+#{\"type\":\"blank\",\"id\": 1,\"size\":\"line\"}#
+#{\"type\":\"para_end\"}#"</string>
+    <string name="demp_question_blank_select_word">"\#{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"left\",\"color\":\"#333333\",\"margin\":8}#
+单词挖空:苹果怎么拼？
+#{\"type\":\"para_end\"}#
+#{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"mid\",\"color\":\"#000000\",\"margin\":8}#
+a#{\"type\":\"blank\",\"id\": 1,\"size\":\"letter\"}#p#{\"type\":\"blank\",\"id\": 2,\"size\":\"letter\"}#e
+#{\"type\":\"para_end\"}#"</string>
+    <string name="demp_question_blank_select_word_templete">"\#{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"left\",\"color\":\"#333333\",\"margin\":8}##{\"type\":\"para_end\"}#
+#{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"mid\",\"color\":\"#000000\",\"margin\":8}#
+a#{\"type\":\"blank\",\"id\": 1,\"size\":\"letter\"}#p#{\"type\":\"blank\",\"id\": 2,\"size\":\"letter\"}#e
+#{\"type\":\"para_end\"}#"</string>
+    <string name="demp_question_blank_select_word_templete_default">"\#{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"left\",\"color\":\"#333333\",\"margin\":8}##{\"type\":\"para_end\"}#
+#{\"type\":\"para_begin\",\"size\" : 30,\"align\": \"mid\",\"color\":\"#000000\",\"margin\":8}##{\"type\":\"blank\",\"id\": 1,\"size\":\"letter\"}#"</string>
+    <string name="dialog_duplicate_remove_btn">已选%1$d个账号,移除班群</string>
+    <string name="dialog_duplicate_tip_btn">已选%1$d个账号,一键提示</string>
+    <string name="dictation_guide">"亲爱的小朋友
+请准备好纸和笔
+每个词播放次数： %1$d次
+听写速度： %2$s
+准备完成后
+请点击下方\"开始听写\"按钮"</string>
+    <string name="dictation_guide_more">"亲爱的小朋友
+请准备好纸和笔
+每个词播放次数： %1$d次
+听写速度： %2$s
+准备完成后
+请点击下方\"再次听写\"按钮"</string>
+    <string name="discount_ability">魔法学院</string>
+    <string name="discount_adapter">寻找布克侠</string>
+    <string name="discount_arena">竞技场</string>
+    <string name="discount_book_new">布克新品</string>
+    <string name="discount_excerice_chinese">布克同步练·语文</string>
+    <string name="discount_excerice_english">布克同步练·英语</string>
+    <string name="discount_excerice_math">布克同步练·数学</string>
+    <string name="discount_gmc">脑力达人</string>
+    <string name="discount_graded">布克阅读</string>
+    <string name="discount_idiom">成语大师</string>
+    <string name="discount_reading">梦想读书会</string>
+    <string name="discount_science">科学嘉年华</string>
+    <string name="discount_through">学霸星球</string>
+    <string name="discount_vip">会员</string>
+    <string name="dot_read_payment_price">支付%1$s元</string>
+    <string name="dot_read_payment_top_title">官方正版授权，购买后可以开通整本教材的完整功能，开通后可以使用%1$s，%1$s后自动过期。</string>
+    <string name="dotread_again">复读</string>
+    <string name="dotread_continue">连读</string>
+    <string name="en_dictation_online_tip">"亲爱的小朋友
+请调大音量
+请输入听到的英语单词
+
+点击按钮开始听写"</string>
+    <string name="en_dictation_online_title">在线听写</string>
+    <string name="en_dictation_paper_tip">"亲爱的小朋友
+请调大音量
+请准备好纸和笔
+
+将听到的单词写在纸上
+然后拍照提交听写作业
+
+点击按钮开始听写"</string>
+    <string name="en_dictation_paper_title">纸质听写</string>
+    <string name="en_dubbing_add_integral">+ %1$d分</string>
+    <string name="en_dubbing_answer_index">名次 &lt;b>第%1$s名&lt;/b></string>
+    <string name="en_dubbing_answer_teacher_comment">%1$s的评语</string>
+    <string name="en_dubbing_answer_time">用时 %1$s</string>
+    <string name="en_dubbing_answer_total_time">用时:%1$s</string>
+    <string name="en_dubbing_average_score">平均分 %1$d分</string>
+    <string name="en_dubbing_difficulty">难度：</string>
+    <string name="en_dubbing_index">%1$d.</string>
+    <string name="en_dubbing_modify">修改</string>
+    <string name="en_dubbing_over_top">名次 &lt;b>置　顶&lt;/b></string>
+    <string name="en_dubbing_source">来源：%1$s</string>
+    <string name="en_dubbing_submit">提交</string>
+    <string name="en_phonics_fun">Phonics Fun</string>
+    <string name="en_phonics_fun_ch">练拼读</string>
+    <string name="en_phonics_next_question">下一题</string>
+    <string name="en_phonics_skill">Phonics Skill</string>
+    <string name="en_phonics_skill_ch">学拼读</string>
+    <string name="en_phonics_skill_no_record_prompt">请完成拼读</string>
+    <string name="en_phonics_study_start">开始学习</string>
+    <string name="en_phonics_word_games">Words Games</string>
+    <string name="en_phonics_word_games_ch">小闯关</string>
+    <string name="exame_tip">认真作答,仔细审题,自觉完成</string>
+    <string name="exercise_adaptive_review_tip">自适应复习关卡是根据你的个人知识点掌握情况智能生成的，可以帮你进行定制化复习哦</string>
+    <string name="exercise_btn_text_i_know">知道了</string>
+    <string name="exercise_chinese_result_knowledge_point_title">- 练习题掌握情况 -</string>
+    <string name="exercise_chinese_result_vip_reward_tip">布克同步练·语文会员额外奖励</string>
+    <string name="exercise_chinese_vip_extra_reward_tip">布克同步练·语文会员，额外奖励</string>
+    <string name="exercise_confirm_exit">确认退出</string>
+    <string name="exercise_continue_play">继续答题</string>
+    <string name="exercise_continue_play_video">继续观看</string>
+    <string name="exercise_english_vip_extra_reward_tip">布克同步练·英语会员，额外奖励</string>
+    <string name="exercise_exit_play_sub_title">本次做题记录将不会保存</string>
+    <string name="exercise_exit_play_title">是否退出答题</string>
+    <string name="exercise_exit_play_video_sub_title">退出后只能重新播放视频了哦</string>
+    <string name="exercise_exit_play_video_title">是否确认退出?</string>
+    <string name="exercise_gift_has_gain">奖励已经发到你的账户中了哦</string>
+    <string name="exercise_guid_desc">"期中复习视频讲解来啦，重
+点专题讲解，金币积分等你拿！"</string>
+    <string name="exercise_home_page_guide">"你知道吗，在PK赛全国排行
+中获得第一，就能获得1000
+积分哦"</string>
+    <string name="exercise_level">第%1$d关</string>
+    <string name="exercise_math_vip_extra_reward_tip">布克同步练·数学会员，额外奖励</string>
+    <string name="exercise_more_1_video_section">今天已经看过1个视频啦，明天再继续努力吧！</string>
+    <string name="exercise_more_2_video_section">今天已经看过2个视频啦，明天再继续努力吧！</string>
+    <string name="exercise_more_five_section">今天一共已经完成了5关练习哦，明天再继续努力吧！</string>
+    <string name="exercise_more_seven_section">今天一共已经完成了7关练习哦，明天再继续努力吧！</string>
+    <string name="exercise_more_three_section">今天已经完成了3关基础练习，明天再继续努力吧！</string>
+    <string name="exercise_more_three_section_multiple_steps">今天已经完成了3关脱式练习，明天再继续努力吧！</string>
+    <string name="exercise_more_three_section_vertical">今天已经完成了3关竖式练习，明天再继续努力吧！</string>
+    <string name="exercise_parent_reading_tip">立即为孩子提升学习方案</string>
+    <string name="exercise_pk_exit_play_sub_title">不怕被打败，就怕做胆小鬼哦</string>
+    <string name="exercise_pk_exit_play_title">亲，你真的要退出当前比赛吗？</string>
+    <string name="exercise_pk_result_country_rank">全国排名: &lt;font color=\"#ffa11b\">%1$d&lt;/font></string>
+    <string name="exercise_pk_result_rank_tip">开通完整功能以后，你的成绩可以进入全国排行榜哦！</string>
+    <string name="exercise_pk_result_record_tip">只显示最近30天内的PK详情</string>
+    <string name="exercise_pk_result_record_title">我的战绩</string>
+    <string name="exercise_pk_result_week_score">本周总分: &lt;font color=\"#ffa11b\">%1$d&lt;/font></string>
+    <string name="exercise_pk_series_right">"连对2题,
+另加&lt;font color=\"#ffcc1b\">8分&lt;/font>"</string>
+    <string name="exercise_result_knowledge_point_title">- 知识点掌握情况 -</string>
+    <string name="exercise_result_repeat_do">重新挑战</string>
+    <string name="exercise_result_revise">订正</string>
+    <string name="exercise_result_reward_tip">- 答对四题以上，领 &lt;font color=\"#fe6f49\">5倍&lt;/font> 奖学金 -</string>
+    <string name="exercise_result_reward_vip_tip">开通布克同步练·数学会员，可以获得额外&lt;font color=\"#ffdb32\">4倍奖励&lt;/font>!</string>
+    <string name="exercise_result_vip_reward_tip">布克同步练·数学会员额外奖励</string>
+    <string name="exercise_task_reward_base">完成1关基础练习</string>
+    <string name="exercise_task_reward_pk_do">参加一场PK赛</string>
+    <string name="exercise_task_reward_pk_win">取得1场PK赛胜利</string>
+    <string name="exercise_task_reward_sub_title">获得任务奖励</string>
+    <string name="exercise_task_reward_title">恭喜你</string>
+    <string name="exercise_task_reward_vip">会员每日专属礼包</string>
+    <string name="exercise_title">布克同步练·数学</string>
+    <string name="exercise_unlock_sub_title">"通过前置关卡且获得1星以上，才
+可以解锁本关卡"</string>
+    <string name="exercise_unlock_sub_title_2_star">"通过前置关卡且获得2星以上，才
+可以解锁本关卡"</string>
+    <string name="exercise_unlock_title">未解锁</string>
+    <string name="exercise_video_download_progress_tips">视频正在下载中&lt;font color=\"#44cdfc\">&lt;b>%1$d%%&lt;/b>&lt;/font></string>
+    <string name="exercise_video_num">共%1$d集</string>
+    <string name="exercise_video_title">趣味视频：第%1$d集</string>
+    <string name="exerise_task_go_do">去做任务</string>
+    <string name="eye_protected_txt_1">新增护眼模式, 帮助孩子保护眼睛</string>
+    <string name="eye_protected_txt_2">是否开启护眼模式</string>
+    <string name="finish_listen">"已完成听写作业
+请家长检查作业吧"</string>
+    <string name="finished_committed">活动已结束,请查看评测结果!</string>
+    <string name="follow_read_tips">"1）跟读评测将对本页点读内容进行评测
+2）为确保评测的准确性，请在安静的环境下进行
+3）原声播放完成后，请根据界面上提示进行跟读
+4）本句评测完成后会自动进行到下一句
+5）本页所有语句评测完成后将生成一份评测报告"</string>
+    <string name="free_practice_pk_result_reward">—  奖励  —</string>
+    <string name="fri">五</string>
+    <string name="gain_reward">领取奖励</string>
+    <string name="give_notebook">送星座笔记本</string>
+    <string name="giving_study_card_num">(含%1$s张赠送卡)</string>
+    <string name="gmc_right_count">%1$d题正确</string>
+    <string name="go_to_see">前去看看</string>
+    <string name="gold_box_reward">宝箱奖励:</string>
+    <string name="graded_book_long_loading">正在加载中…</string>
+    <string name="graded_book_long_update">持续更新中…</string>
+    <string name="graded_camp_ability_evaluation">能力测评</string>
+    <string name="graded_camp_avatar_box">专属头像框</string>
+    <string name="graded_camp_book">百本精彩好书 畅游古今中外</string>
+    <string name="graded_camp_class_prompt">"课程说明：
+1. 您所购买的课程有有效期，结束后将无法继续阅读已读过的图书。
+2. 本课程为微信伴读课程，课程将在加入伴读微信群后开启，有效期也从加群时开始计算。"</string>
+    <string name="graded_camp_class_prompt_1">"课程说明：
+您所购买的课程有有效期，结束后将无法继续阅读已读过的图书。"</string>
+    <string name="graded_camp_class_prompt_2">"课程说明：
+1. 您所购买的课程有有效期，结束后将无法继续阅读已读过的图书。
+2. 本课程为微信伴读课程，课程将在加入伴读微信群后开启，有效期也从加群时开始计算。"</string>
+    <string name="graded_camp_coin">金币</string>
+    <string name="graded_camp_experience_now">立即体验</string>
+    <string name="graded_camp_integral">积分</string>
+    <string name="graded_camp_long_book_online">&lt;font color=\"#ff6a3c\">西游记长篇连载&lt;/font>上线了</string>
+    <string name="graded_camp_long_book_xiyou_desc">"谁把孙悟空压在五指山下？
+孙悟空如何炼成火眼金睛？
+快去一探究竟"</string>
+    <string name="graded_camp_multi_reward">多种奖励</string>
+    <string name="graded_camp_open_course">开通课程</string>
+    <string name="graded_camp_power">体力卡</string>
+    <string name="graded_camp_prompt">参加集训营 赢丰富大礼</string>
+    <string name="graded_camp_read_desc">-&lt;font color=\"#ff6536\">连续30天&lt;/font>即可获得-</string>
+    <string name="graded_camp_read_title">坚持每日阅读</string>
+    <string name="graded_camp_task_title">完成集训营任务</string>
+    <string name="graded_camp_user_level">当前等级&lt;font color=\"#ff6536\">LV%1$d&lt;/b>&lt;/font></string>
+    <string name="graded_camp_wechat_gif">-入群&lt;font color=\"#ff6536\">大礼包&lt;/font>-</string>
+    <string name="graded_camp_wechat_title">加入集训营微信群</string>
+    <string name="graded_group_step_award">-领取开学礼包-</string>
+    <string name="graded_group_step_join">加入班群</string>
+    <string name="graded_group_step_open">开启课程</string>
+    <string name="graded_group_step_sale">购买课程</string>
+    <string name="graded_main_expired">你已达到&lt;font color=\"#F8DE4E\">Lv%1$s&lt;/font>，再学习&lt;font color=\"#F8DE4E\">%2$s天&lt;/font>即可达到&lt;font color=\"#F8DE4E\">Lv%3$s&lt;/font>，超越&lt;font color=\"#F8DE4E\">%4$s&lt;/font>的小伙伴哦</string>
+    <string name="graded_main_expired_top">"你已经到达Lv%1$s级别
+快回来继续学习吧"</string>
+    <string name="graded_minus">-%1$d</string>
+    <string name="graded_open_full_course">开启完整课程</string>
+    <string name="graded_pay_book_desc">"丰富的书目内容
+精选书目中包含大量童话，寓言和古代故事，
+配有精美插图和真人语音。由浅至深，循序渐进。"</string>
+    <string name="graded_pay_book_list">-课程书目列表-</string>
+    <string name="graded_pay_book_list_desc">部分绘本书目列表</string>
+    <string name="graded_pay_book_list_more">查看更多图书</string>
+    <string name="graded_pay_book_list_title">课程书目列表</string>
+    <string name="graded_pay_current_level">Lv%1$d</string>
+    <string name="graded_pay_current_level_desc">- 当前的级别 -</string>
+    <string name="graded_pay_current_level_desc_common">- 通用计划 -</string>
+    <string name="graded_pay_dialog_plan">选择阅读计划</string>
+    <string name="graded_pay_gift_desc">- 众多学生家长验证学习效果，快来加入吧 -</string>
+    <string name="graded_pay_joined_num">%1$d位小朋友正在参加</string>
+    <string name="graded_pay_level_desc">分级阅读，适合每一个孩子&lt;br>课程分为&lt;font color=\"#FF706F\">12个等级&lt;/font>，&lt;br>通过评测，为您的孩子定制最适合他水平的课程</string>
+    <string name="graded_pay_level_habit_desc">"陪伴式真人朗读，培养孩子的兴趣和阅读习惯
+趣味生字生词练习，不再只是丢给孩子一本书"</string>
+    <string name="graded_pay_level_inspired_desc">"对技巧和作品风格有初步认识，能够提炼文章的隐性信息
+培养孩子有独立见解和表达能力，全面超越同龄人"</string>
+    <string name="graded_pay_level_strengthening_desc">"精读具有一定深度的文章，大量生字词输入
+全面提升阅读理解能力， 轻松应对校内课程"</string>
+    <string name="graded_pay_reading_growing_plan_title">“阅读成长计划”</string>
+    <string name="graded_pay_reading_growing_plan_week">每周读%1$d天</string>
+    <string name="graded_pay_school_desc">众多学生、学校见证学习效果</string>
+    <string name="graded_pay_service_desc">- 自控力少数儿童才有，多数儿童必须有家长监督 -</string>
+    <string name="graded_pay_service_teacher_desc">"[布克阅读]独家推出班主任微信伴学督导服务，
+为学生答疑解惑。
+更有人工智能系统，帮助学生查缺补漏，
+个性化、全方位提升阅读能力。"</string>
+    <string name="graded_pay_team_desc">"拥有大量教育学专家、语言学专家、
+国内顶尖儿童文学作家的设计团队，
+通过领先的人工智能技术和创新的产品体验，
+帮助所有学生高效学习阅读，
+感受文学魅力！"</string>
+    <string name="graded_plus">+%1$d</string>
+    <string name="graded_readaloud_get">获得</string>
+    <string name="graded_readaloud_renew_content">读准每一个句子，再试一次吧～</string>
+    <string name="graded_readaloud_result_prompt">朗读作品</string>
+    <string name="graded_readaloud_result_rate">超过全国&lt;font color=\"#ec7974\">%1$s&lt;/font>的小朋友</string>
+    <string name="graded_readaloud_share_reward">首次分享可得&lt;font color=\"#ffcc5e\">%1$d&lt;/font>金币</string>
+    <string name="graded_readaloud_share_reward_get">金币 X %1$d</string>
+    <string name="graded_renew_pay_confirm">确认支付</string>
+    <string name="graded_renew_pay_title">续购课程</string>
+    <string name="graded_renew_recording">重新录制</string>
+    <string name="graded_task_result_box_prompt">* 开通课程后可领取哦</string>
+    <string name="graded_task_result_reading_complete">- 恭喜你，完成读书 -</string>
+    <string name="graded_task_result_share_days">* 邀请好友，可得 %1$d 天免费课程</string>
+    <string name="graded_task_star_prompt">* 读完三本书，解锁下一节课程 *</string>
+    <string name="graded_today_read_words_num">今日阅读字数</string>
+    <string name="graded_wechat_customer_services">遇到问题？&lt;font color=\"#fffa75\">&lt;u>拨打客服电话&lt;/u>&lt;/font></string>
+    <string name="graded_wechat_open">直接开启课程</string>
+    <string name="graded_wechat_step_0">打开微信-通讯里-右上角‘添加朋友’</string>
+    <string name="graded_wechat_step_1">在微信号搜索栏，粘贴微信号，点击搜素</string>
+    <string name="graded_wechat_step_2">选择老师微信，点击添加到通讯录</string>
+    <string name="graded_wechat_student_code">我的学员号：</string>
+    <string name="graded_wechat_teacher_code">老师微信号：</string>
+    <string name="graded_wechat_teacher_work_time">老师工作时间：除法定节假日，周一至周六 10:00–21:00</string>
+    <string name="guolv_thought">过滤式思维</string>
+    <string name="has_invited_tips">您已经向同学发出了邀请</string>
+    <string name="has_invited_txt">已邀请</string>
+    <string name="hhw_toast_finished">关卡已完成</string>
+    <string name="hhw_toast_locked">还没有开启此关卡</string>
+    <string name="holiday_homework_finished">"这一天的作业完成啦
+本次作业获得&lt;font color=#ffb41e>&lt;b>%1$s&lt;/b>&lt;/font>个金币，继续努力"</string>
+    <string name="holiday_homework_gotten_coin">已获得金币 &lt;font color=#fee23f>&lt;b>%1$s个&lt;/b>&lt;/font></string>
+    <string name="holiday_homework_most_coin">答题最多可获得&lt;font color=#ffb41e>&lt;b>%1$s&lt;/b>&lt;/font>哦~</string>
+    <string name="homework_knowledge_map">知识图谱</string>
+    <string name="homework_knowledge_map_tip">说明</string>
+    <string name="homework_question_selected">已选%1$d道，继续答题</string>
+    <string name="homework_question_total">共%1$d道题</string>
+    <string name="homework_version_error_text">小朋友，老师布置了新的题型，需要升级到最新版本才能够完成本次作业哦</string>
+    <string name="homework_video_content">这是一个关于&lt;font color=\"#5ebaff\">【%1$s】&lt;/font>的视频动画，先看视频，再做练习吧！</string>
+    <string name="homework_voice_result_error">好可惜，T T</string>
+    <string name="homework_voice_result_exciting">优秀!真是太棒啦!</string>
+    <string name="homework_voice_result_good">哎呦，不错哦~</string>
+    <string name="homework_voice_result_normal">继续努力，你还能做得更好~</string>
+    <string name="hw_article_reading">短文朗读</string>
+    <string name="hw_en_result_title">闯关结果</string>
+    <string name="hw_en_spoken_contest">口语大乱斗</string>
+    <string name="hw_en_spoken_contest_challenge">去挑战</string>
+    <string name="hw_en_spoken_contest_chance_prompt">仅有一次挑战机会</string>
+    <string name="hw_en_spoken_contest_master">擂主：%1$s</string>
+    <string name="hw_en_spoken_contest_my_score">我的成绩:&lt;font color=\"#5ebaff\">%1$d分&lt;/font></string>
+    <string name="hw_en_spoken_contest_no_score">我的成绩 : 暂无</string>
+    <string name="hw_en_spoken_contest_no_winner">暂无擂主</string>
+    <string name="hw_en_spoken_contest_partner_choose">请选择本次挑战的搭档</string>
+    <string name="hw_en_spoken_contest_score">%1$d分</string>
+    <string name="hw_en_spoken_contest_start">开始</string>
+    <string name="hw_en_spoken_partner_audition">试听</string>
+    <string name="hw_en_spoken_partner_over_challenge">您已完成挑战</string>
+    <string name="hw_en_spoken_partner_score_prompt">(最终仅计算自己的得分哦)</string>
+    <string name="hw_english_exam_back_guide">点击x返回作答概览页</string>
+    <string name="hw_english_exam_guide">作答概览页包含了所有习题，可以进行检查和更改。检查过程中时间也会继续哦~</string>
+    <string name="hw_full_score">满分：%1$s分</string>
+    <string name="hw_gain_score">得分：%1$s分</string>
+    <string name="hw_oral_unfinish_quesiton">未完成题目</string>
+    <string name="hw_sentence_follow">句子跟读</string>
+    <string name="hw_situation">情景问答</string>
+    <string name="hw_word_reading">单词朗读</string>
+    <string name="i_know">我知道了</string>
+    <string name="idiom_has_gain_all_coins">金币已全部领取</string>
+    <string name="idiom_left_coins">%1$d金币待领取</string>
+    <string name="idiom_map_unlock">%1$d元解锁</string>
+    <string name="idiom_medal_power">体力卡+%1$d</string>
+    <string name="include_all_analyze">包含所有年级全部习题的解析</string>
+    <string name="include_single_class_analyze">包含该年级习题的解析</string>
+    <string name="invite_btn_txt">点击邀请</string>
+    <string name="item_committing">正在提交结果</string>
+    <string name="jianjin_thought">渐进式思维</string>
+    <string name="join_class_search_class">搜索</string>
+    <string name="knowledge_planet_has_changed_place">学霸星球搬家啦~</string>
+    <string name="lisen_and_write">单词听写</string>
+    <string name="listening_practice_tip_underline_txt1"><u>We learn</u></string>
+    <string name="listening_practice_tip_underline_txt2"><u>English</u></string>
+    <string name="listening_practice_tip_underline_txt3"><u>together</u></string>
+    <string name="live_buy_experience_fail">"每人只有一次体验课机会
+
+如果对课程满意
+请联系之前的任课老师报名"</string>
+    <string name="live_course_class_num">共%1$s课时</string>
+    <string name="live_course_date">课程周期：%1$s-%2$s</string>
+    <string name="live_course_do_recommand_homework">马上去完成推荐作业</string>
+    <string name="live_course_happy_moment">欢乐时刻</string>
+    <string name="live_course_join_num">%1$s人参加</string>
+    <string name="live_course_left_num">仅剩%1$s个名额</string>
+    <string name="live_course_performance">课堂表现</string>
+    <string name="live_course_phone">400-669-6496</string>
+    <string name="live_course_photo_empty">上课后你的影像将留在这里</string>
+    <string name="live_course_prize">老师奖励</string>
+    <string name="live_course_rank_desc">你的表现在上课的同学中处于前&lt;font color=\"#ff8a00\">%1$s&lt;/font>，加油！继续前进！</string>
+    <string name="live_course_rank_desc_empty">要听完课才能生成课程报告</string>
+    <string name="live_course_recommand_desc_empty">要听完课才有推荐练习哦</string>
+    <string name="live_course_recommand_exercise">推荐练习</string>
+    <string name="live_course_score_detail">评分详情</string>
+    <string name="living_day_exercise_data_error">数据异常，请稍后再试～</string>
+    <string name="living_day_exercise_lock">休息一下,明天再来看看吧～</string>
+    <string name="location_message">The location information</string>
+    <string name="mon">一</string>
+    <string name="multi_images_picker_arrive_limit_count">已达到最大选择数</string>
+    <string name="multi_images_picker_has_chose">已选择  </string>
+    <string name="multi_images_picker_picture_unit">  张</string>
+    <string name="multi_images_picker_please_choose_pic">选择图片</string>
+    <string name="my_history">我的表现</string>
+    <string name="new_player_right_title">%1$d天免费畅玩</string>
+    <string name="new_player_right_title_overdue">新手特权到期</string>
+    <string name="new_player_try">开始体验</string>
+    <string name="nine_match_certification_info">鉴于你在&lt;font color=\"#569DFE\">&lt;big>&lt;b>%1$s&lt;/b>&lt;/big>&lt;/font>活动中，积极参与并成功完赛。</string>
+    <string name="nixiang_thought">逆向式思维</string>
+    <string name="not_invite_often_tips">发出邀请不要太过频繁哦</string>
+    <string name="old_user_reward_desc">"趣味数学升级为脑力达人
+我们为你开放全部关卡，欢迎体验"</string>
+    <string name="open">开启</string>
+    <string name="optimise_brain">进化你的大脑</string>
+    <string name="origin_price">原价: ¥%1$s</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="payment_be_vip_cancel">原价购买: ¥%1$s</string>
+    <string name="payment_be_vip_confirm">开通会员优惠购买</string>
+    <string name="payment_be_vip_title">开通享受会员价</string>
+    <string name="payment_pk_0">&lt;font color=\"#ffffff\">每天多送&lt;/font>&lt;font color=\"#ffec19\">&lt;b>3个护盾&lt;/b>&lt;/font></string>
+    <string name="payment_pk_1">&lt;font color=\"#ffffff\">额外奖励&lt;/font>&lt;font color=\"#ffec19\">&lt;b>1500金币&lt;/b>&lt;/font></string>
+    <string name="payment_pk_2">&lt;font color=\"#ffffff\">专属&lt;/font>&lt;font color=\"#ffec19\">&lt;b>勇者标识&lt;/b>&lt;/font></string>
+    <string name="payment_pk_3">&lt;font color=\"#ffffff\">更多&lt;/font>&lt;font color=\"#ffec19\">&lt;b>积分 金币 奖杯&lt;/b>&lt;/font></string>
+    <string name="payment_product_study_card">需学习卡%1$s张</string>
+    <string name="payment_result_study_card_num_tip">（需学习卡%1$d张 我的学习卡%2$d张）</string>
+    <string name="payment_study_card_tip">已有%1$d张，还需%2$d张</string>
+    <string name="payment_style_child_notice">"*该项目为自愿开通使用
+不影响作业功能免费使用~"</string>
+    <string name="pk_arena_dialog_desc_toolate">竞技场的开始时间为6：00至24:00，请在规定开始时间进行竞技</string>
+    <string name="pk_arena_dialog_title_toolate">太晚了要去睡觉啦</string>
+    <string name="pk_arena_grade_number">第%1$s名</string>
+    <string name="pk_arena_tips">答题失败将损失一个护盾,请认真作答哦</string>
+    <string name="pk_arena_upgrade">"恭喜你
+升级到%1$s阶竞技场"</string>
+    <string name="play_splash_support">闯关题目由学而思网校提供</string>
+    <string name="problem_solve_multi_answer_title">"真棒，答对了
+本题第%1$d问有多种解法哦"</string>
+    <string name="push_content_exam_15">%1$s 您有一场评测即将在15分钟后开始,请做好准备</string>
+    <string name="push_content_exam_start">%1$s 您的评测已经开始,立刻点击答题</string>
+    <string name="push_title_exam">作业盒子</string>
+    <string name="rank_current_week">本周榜单</string>
+    <string name="rank_last_week">全国榜</string>
+    <string name="rank_national">全国榜</string>
+    <string name="rank_school">本校榜</string>
+    <string name="rank_tips">排行榜每周周一结算上周排行</string>
+    <string name="re_exame">"活动已于%1$s结束,
+你仍可补答完成"</string>
+    <string name="read_count_title">已读图书 %1$d / %2$d</string>
+    <string name="reading_achievement_left_book_num">"还有&lt;font color=\"#019cff\">%1$s&lt;/font>本书就可以获得新成就了
+快去读书吧"</string>
+    <string name="reading_card_record_card">读书卡记录</string>
+    <string name="reading_card_record_consume">使用读书卡%1$d张</string>
+    <string name="reading_card_record_get">获得读书卡%1$d张</string>
+    <string name="reading_card_record_prompt">"读书卡记录每小时更新一次
+目前仅支持查询近三个月的读书卡记录"</string>
+    <string name="reading_card_record_read">阅读记录</string>
+    <string name="reading_center_date">%1$s %2$s</string>
+    <string name="reading_game_info">"1. 每个职业具有不同等级，等级越高，称谓越牛，道具越多；
+2. 进入书架，阅读相关图书即可收集职业道具； 
+3. 集齐道具可进行职业进阶，提升当前职业等级； 
+4. 成功进阶还可获得丰厚的金币奖励哦！ 
+一起来阅读图书，收集道具，完成进阶，成就你的职业梦想吧～"</string>
+    <string name="reading_group_can_receive_cards">可以领取读书卡</string>
+    <string name="reading_group_card_prompt">首页领取20张读书卡+30天内每天再领2张</string>
+    <string name="reading_group_has_received">已领取</string>
+    <string name="reading_group_not_receive">尚未入群</string>
+    <string name="reading_group_opened_class">已开启课程</string>
+    <string name="reading_group_receive">领取</string>
+    <string name="reading_group_receive_cards">直接领取读书卡</string>
+    <string name="reading_group_repeat_award">已经领取过奖励</string>
+    <string name="reading_group_reward_1">500金币</string>
+    <string name="reading_group_reward_2">5张体力卡</string>
+    <string name="reading_group_reward_3">专属头像框</string>
+    <string name="reading_list_title">已读图书 %1$d / %2$d</string>
+    <string name="reading_result_reward_gold">金币+%1$d</string>
+    <string name="reading_result_reward_jifen">积分+%1$d</string>
+    <string name="reading_result_time_min">阅读时间：%1$d分钟</string>
+    <string name="reading_result_time_sec">阅读时间：%1$d秒</string>
+    <string name="reading_reward_cardcount">读书卡%1$d张</string>
+    <string name="reading_reward_join_group">"加群得
+读书卡"</string>
+    <string name="reading_reward_remmind_day">包月剩余%1$d天</string>
+    <string name="reading_reward_remmind_hour">包月剩余%1$d小时</string>
+    <string name="reading_reward_remmind_min">包月剩余%1$d分钟</string>
+    <string name="reading_reward_super_remmind_day">包月剩余天数%1$d天</string>
+    <string name="reading_reward_super_remmind_hour">包月剩余%1$d小时</string>
+    <string name="reading_reward_super_remmind_min">包月剩余%1$d分钟</string>
+    <string name="reward_coin_count">金币:+%1$d</string>
+    <string name="sas_buy_now">立即购买</string>
+    <string name="sas_fake_play_dialog_desc">答案不正确哦,再仔细想想吧</string>
+    <string name="sas_fake_play_dialog_ok">确定</string>
+    <string name="sas_fake_play_wrong_tip">正确答案是2,答完点击下一题提交答案</string>
+    <string name="sas_first_go">前去和大脑练习</string>
+    <string name="sas_first_tip_1">数学100分!</string>
+    <string name="sas_first_tip_2">速算大脑帮助你,so easy</string>
+    <string name="sas_info_coin_prize">闯关成功可获得%1$d金币</string>
+    <string name="sas_select_book_title">选择当前学习的教材</string>
+    <string name="sas_select_grade_title">选择当前学习的年级</string>
+    <string name="sas_test_guid_line_1">还未完成自适应能力测评</string>
+    <string name="sas_test_guid_line_2">完成测试后奖励5金币</string>
+    <string name="sas_test_guid_line_3">完成测试</string>
+    <string name="sas_test_guid_title">测试引导页</string>
+    <string name="sas_vip_bottom_tips">*自适应为课外服务，自愿开通使用</string>
+    <string name="sas_vip_close">未开通</string>
+    <string name="sas_vip_day">%1$d天后过期</string>
+    <string name="sas_vip_effect">高效练习</string>
+    <string name="sas_vip_effect_des">教研老师精心把每个知识点压缩成10道练习题，杜绝题海战术，解放大脑，让做题事半功倍</string>
+    <string name="sas_vip_effect_tips">只练5道题</string>
+    <string name="sas_vip_effect_tips_des">掌握一个知识点要做多少题?至少5道</string>
+    <string name="sas_vip_exam_practice">考前必练</string>
+    <string name="sas_vip_exam_practice_des">依托作业盒子上亿级别的数据平台和强大的教研团队，准确预测必考知识点，为评测保驾护航</string>
+    <string name="sas_vip_exam_practice_tips">大数据分析</string>
+    <string name="sas_vip_exam_practice_tips_des">全国90%的学校都在考这些知识点</string>
+    <string name="sas_vip_had_buy_num">%1$d人已开通</string>
+    <string name="sas_vip_know">我知道了</string>
+    <string name="sas_vip_look_more">查看更多</string>
+    <string name="sas_vip_recommend">智能推题</string>
+    <string name="sas_vip_recommend_des">根据学生作业和闯关情况，智能分析常见易错知识点，量身订制专项复习关卡，和易错题永远说再见</string>
+    <string name="sas_vip_recommend_tips">搞定易错题</string>
+    <string name="sas_vip_recommend_tips_des">学霸的时间没有粗心大意， 坚决不做小马虎</string>
+    <string name="sas_vip_tips1">完成拼图,收集小象英雄</string>
+    <string name="sas_vip_tips2">减少60%做题量,学习更高效</string>
+    <string name="sas_vip_tips3">定制化练习，提高评测成绩</string>
+    <string name="sas_vip_title_tip">自适应学习</string>
+    <string name="sat">六</string>
+    <string name="save">保存</string>
+    <string name="science_map_boot_medal_name_text">完成所有闯关可获得%s勋章</string>
+    <string name="select_all">全部</string>
+    <string name="select_month">近三十日</string>
+    <string name="select_pay_way">选择充值方案</string>
+    <string name="select_role_father">爸爸发放奖励</string>
+    <string name="select_role_ffather">爷爷发放奖励</string>
+    <string name="select_role_fmother">奶奶发放奖励</string>
+    <string name="select_role_mfather">姥爷发放奖励</string>
+    <string name="select_role_mmother">姥姥发放奖励</string>
+    <string name="select_role_mother">妈妈发放奖励</string>
+    <string name="select_role_otehr">家人发放奖励</string>
+    <string name="select_single_class">选择单个年级</string>
+    <string name="select_today">今日</string>
+    <string name="select_week">近七日</string>
+    <string name="self_study_challenge_online_data">%1$d 人在玩</string>
+    <string name="self_study_tranining_online_data">%1$d 人加入</string>
+    <string name="setting">Settings</string>
+    <string name="setting_introduce">&lt;font color=\"#b6c6d4\">说明：点读课本由第三方提供服务，如有问题，请拔打电话&lt;/font>&lt;font color=\"#ff706f\">400-010-0180&lt;/font></string>
+    <string name="share">分享到</string>
+    <string name="share_cancel">取消</string>
+    <string name="share_text_days">坚持天数</string>
+    <string name="share_text_friend">朋友圈</string>
+    <string name="share_text_give">已发奖励</string>
+    <string name="share_text_label">孩子的每一次进步我都知道</string>
+    <string name="share_text_qq">QQ</string>
+    <string name="share_text_qzone">QQ空间</string>
+    <string name="share_text_slogen">我在作业盒子陪伴孩子学习</string>
+    <string name="share_text_slogen_part">作业盒子</string>
+    <string name="share_text_wechat">微信</string>
+    <string name="shitan_thought">试探式思维</string>
+    <string name="single_photo_check_result">本页共识别%1$d道题，发现&lt;font color=\"#FF1600\">&lt;b>%2$d&lt;/b>&lt;/font>道错题</string>
+    <string name="single_photo_check_result_all_right">本页共识别%1$d道题，全对了！</string>
+    <string name="single_photo_check_result_no_question">本页共识别%1$d道题。</string>
+    <string name="single_photo_check_result_total">已识别%1$d题</string>
+    <string name="smarter">脑力达人</string>
+    <string name="smarter_all_pass">脑力达人全部关卡</string>
+    <string name="star_rank_invite_txt">"当前排行榜人数太少
+前去邀请同学们加入脑力达人"</string>
+    <string name="star_rank_title">星星榜单</string>
+    <string name="star_rank_title_1">星星榜></string>
+    <string name="start">"活动已经开始,
+开始答题吧!"</string>
+    <string name="str_parent_view">"家长 您好
+请点击下方\"家长检查\"按钮"</string>
+    <string name="str_rj_entrance">人教官方正版&lt;font color=#cdcdcd>&lt;b>点读机&lt;/b>&lt;/font></string>
+    <string name="study_card_guide_str">"这里新增\"学习卡\"哦
+快来领取5张学习卡，前去体验一下吧"</string>
+    <string name="study_card_introduction">学习卡说明</string>
+    <string name="study_card_new_user_giving_card">学习卡 +5</string>
+    <string name="studycard_can_use">%1$d张学习卡可兑换</string>
+    <string name="submit">提交</string>
+    <string name="summer_holiday_attendance_text">&lt;font color=\"#29548c\">活动期间累计登陆&lt;/font>&lt;font color=\"#f5da47\">七天&lt;/font>&lt;font color=\"#29548c\">,即可获得&lt;/font>&lt;font color=\"#f5da47\">相应奖励&lt;/font>&lt;font color=\"#29548c\">哦&lt;/font></string>
+    <string name="summer_holiday_homework_most_coin">完成最多可获得&lt;font color=#ffb41e>&lt;b>%1$s&lt;/b>&lt;/font>哦~</string>
+    <string name="summer_holiday_unfinish_homework_num">&lt;font color=#ff595e>&lt;b>%1$s份&lt;/b>&lt;/font>未完成</string>
+    <string name="sun">日</string>
+    <string name="text_hw_transtion_exchange">请和你的拍档交换角色，在完成朗读吧</string>
+    <string name="text_hw_transtion_match">请和%1$s同学，一起来完成吧~</string>
+    <string name="text_hw_transtion_no_match">没有合适的同学，请和系统一起来完成吧~</string>
+    <string name="text_hw_transtion_role">本次你的角色：%1$s</string>
+    <string name="text_hw_transtion_title">交换角色</string>
+    <string name="text_prize_get">领取奖励</string>
+    <string name="thu">四</string>
+    <string name="tip_eng_role_share">这里可以分享学生录音哦～</string>
+    <string name="treasure_box_text">"今天是植树节，小象布克送给你
+一份礼物"</string>
+    <string name="tue">二</string>
+    <string name="tv_home_work_details">作答详情</string>
+    <string name="tv_my_book_add">添加课本</string>
+    <string name="tv_my_book_empty_desc">"空空如也~
+快来添加课本开启您的点读之旅吧~"</string>
+    <string name="tv_select_end_position">请选择复读结束的位置</string>
+    <string name="tv_select_start_position">请选择复读起始的位置</string>
+    <string name="un_start">%1$s开始</string>
+    <string name="under_going">"%1$s离结束还有%2$d%3$s,
+你完成作答%4$s/%5$s"</string>
+    <string name="user_power">&lt;font color=\"#44cdfc\">&lt;b>%1$d&lt;/b>&lt;/font>&lt;font color=\"#787878\">/&lt;b>%2$d&lt;/b>&lt;/font></string>
+    <string name="user_power_video">&lt;font color=\"#44cdfc\">&lt;b>%1$d&lt;/b>&lt;/font>&lt;font color=\"#ffffff\">/&lt;b>%2$d&lt;/b>&lt;/font></string>
+    <string name="video_download_progress_tips">下载中&lt;font color=\"#44cdfc\">&lt;b>%1$d%%&lt;/b>&lt;/font></string>
+    <string name="video_explain_break_blockade_power_tips">体力:&lt;font color=\"#ff6666\">&lt;b>-5&lt;/b>&lt;/font></string>
+    <string name="video_explain_break_blockade_time_tips">限时:&lt;font color=\"#ff6666\">&lt;b>5分钟&lt;/b>&lt;/font></string>
+    <string name="video_explain_break_blockade_use_time">我的用时:&lt;font color=\"#ff6666\">&lt;b>%1$s&lt;/b>&lt;/font></string>
+    <string name="vip_center_bag"><Data>开宝箱免&lt;font color=\"#fe7801\">体力&lt;/font>（非会员需消耗&lt;font color=\"#fe7801\">10体力&lt;/font>），奖励更多&lt;font color=\"#fe7801\">金币&lt;/font>，&lt;font color=\"#fe7801\">积分&lt;/font>和&lt;font color=\"#fe7801\">体力&lt;/font>！</Data></string>
+    <string name="vip_center_cartoon"><Data>赠送&lt;font color=\"#fe7801\">漫画卡&lt;/font>，跟着布克去探险，小象故事每周更新一话！</Data></string>
+    <string name="vip_center_manual"><Data>体力上限增加&lt;font color=\"#fe7801\">30&lt;/font>点，成为会员每天都比小伙伴多玩几次，神算子非你莫属！</Data></string>
+    <string name="vip_center_map"><Data>赠送&lt;font color=\"#fe7801\">地图钥匙&lt;/font>，获得额外闯关机会，专享超低会员价购买，为爸妈省更多呦！</Data></string>
+    <string name="vip_discount">开通会员立减 %1$s 元</string>
+    <string name="vip_price">会员价: ¥%1$s</string>
+    <string name="voice_re_recorded">重录</string>
+    <string name="voice_result_excellent">优秀</string>
+    <string name="voice_result_failed">未达标</string>
+    <string name="voice_result_good">良好</string>
+    <string name="voice_result_pass">达标</string>
+    <string name="voice_tips">点击按钮开始录音</string>
+    <string name="wed">三</string>
+    <string name="wrong_done_txt"><u>已扫除0道错题</u> ></string>
+    <string name="wrong_tip1">每次最多可扫除10道题</string>
+    <string name="wrong_tip3">扫除成功将获得积分奖励</string>
+    <string name="wrong_tips2">每次扫除会消耗5点体力</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/et_first"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="输入第一个数"
+            android:inputType="number"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/et_second"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="输入第二个数"
+            android:inputType="number"
+            android:textSize="24sp" />
+
+        <RadioGroup
+            android:id="@+id/rg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_addition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="加法" />
+
+            <RadioButton
+                android:id="@+id/rb_subtraction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="减法" />
+
+            <RadioButton
+                android:id="@+id/rb_multiplication"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="乘法" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btn_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="确认" />
+
+        <com.joyming.verticalmap.SubtractionLayout
+            android:id="@+id/subtraction_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+          ></com.joyming.verticalmap.SubtractionLayout>
+
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="提交答案" />
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
